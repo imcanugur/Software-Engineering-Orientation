@@ -1,2 +1,2 @@
-# software-engineering-orientation
+# Software-Engineering-Orientation
 www.ugurcan.live
