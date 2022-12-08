@@ -4,7 +4,7 @@ public class orn10 {
     public static void main(String[] args) throws Exception {
         //Yıdızlarla Daire Çizimi
         Scanner sc = new Scanner(System.in);
-        System.out.print("Bir sayi giriniz: ");
+        System.out.print("Yarıçapı giriniz: ");
         int yaricap = sc.nextInt();
         double kok;
         for (int i = 0; i <= 2 * yaricap; i++) {
